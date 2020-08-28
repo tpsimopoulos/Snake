@@ -1,1 +1,3 @@
-# Snake game built using Pygame.
+# Snake
+
+Built using Pygame.
