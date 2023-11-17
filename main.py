@@ -12,7 +12,7 @@ clock = pygame.time.Clock()
 pygame.display.set_caption('Snake')
 size = screen_width, screen_height = 350, 350
 screen = pygame.display.set_mode(size)
-eat_sound = pygame.mixer.Sound("power_up.wav")
+eat_sound = pygame.mixer.Sound("/Users/tpsimopoulos/PythonProjects/Snake/Snake/power_up.wav")
 
 
 def show_go_screen():
